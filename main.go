@@ -31,8 +31,8 @@ import (
 	"github.com/xiam/hyperfox/proxy"
 	"github.com/xiam/hyperfox/tools/capture"
 	"github.com/xiam/hyperfox/tools/logger"
-	"upper.io/db"
-	"upper.io/db/sqlite"
+	"upper.io/db.v1"
+	"upper.io/db.v1/sqlite"
 )
 
 const version = "0.9"
