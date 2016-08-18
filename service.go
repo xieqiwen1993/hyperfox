@@ -39,7 +39,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/xiam/hyperfox/tools/capture"
 	"menteslibres.net/gosexy/to"
-	"upper.io/db"
+	"upper.io/db.v1"
 )
 
 var (
